@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Icantdecideusername
 - 👀 I’m interested in networking and data
-- 🌱 I’m currently learning how to write Go and WASM
-- 📫 How to reach me: maybe, but in the future
+- 🌱 I’m currently learning how to write neural networks from scratch
+- 📫 Contact me via apple4minh@gmail.com using gmail (i don't use other platforms)
 - 😄 Pronouns: He/Him
 
 <!---
